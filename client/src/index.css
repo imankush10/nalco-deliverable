@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@300..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  background-color: #fff1f0;
+  font-family: "Jura";
+  border-color: black;
+}
+
+.container-padding {
+  border-bottom: 20px solid #fff1f0;
+  border-top: 20px solid #fff1f0;
+}
+.noscrollbar::-webkit-scrollbar {
+  display: none;
+}
+.container-padding::-webkit-scrollbar {
+  display: none;
+}
+
+.fire-button {
+  filter: drop-shadow(30px 10px 4px #333);
+}

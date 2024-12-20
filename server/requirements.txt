@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+python-multipart
+openpyxl
+tensorflow
+matplotlib
+pycaret
+pydantic
+pymodbus
+pyserial
+sqlalchemy
+logging
+asyncio
+jinja2 
+sqlalchemy
