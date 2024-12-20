@@ -11,7 +11,5 @@ pydantic
 pymodbus
 pyserial
 sqlalchemy
-logging
-asyncio
 jinja2 
 sqlalchemy
