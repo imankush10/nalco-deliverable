@@ -9,7 +9,7 @@ from pycaret.regression import setup, compare_models, create_model, predict_mode
 from src.prediction.predict import all_value_prediction, all_value_prediction_file
 from src.plots.multi_plots import plot_temperature_distribution
 from src.reverse_prediction import reverse_features_prediction
-from src.models import load_pickle_model, load_tensorflow_model
+from src.models import load_pickle_model
 from src.preprocess import preprocess_input, preprocess_input_file
 from src.settings import MODEL_PATHS, FEATURES  # Import from settings
 import logging
