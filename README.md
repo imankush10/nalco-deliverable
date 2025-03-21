@@ -1,3 +1,12 @@
+# 🏆 Smart India Hackathon 2024 Winning Project – Team Pratishta  
+
+This project was developed as part of the **Smart India Hackathon 2024** and emerged as a **winner** 🏅. Built by **Team Pratishta**, it leverages modern web and machine learning technologies to deliver an innovative solution.  
+
+## 🛠️ Tech Stack  
+- **Frontend:** Electron.js, React, TypeScript, Zustand  
+- **Backend:** FastAPI  
+- **Machine Learning:** Scikit-learn
+  
 ![Screenshot 2024-12-12 160547](https://github.com/user-attachments/assets/48599273-73eb-49ac-a7e8-7815d9735f3d)
 ![Screenshot 2024-12-12 160409](https://github.com/user-attachments/assets/a9acc6a7-ebd8-4c33-8c49-a080661d27ae)
 ![Screenshot 2024-12-12 160326](https://github.com/user-attachments/assets/7ceb95e8-6916-47d1-95d0-89f16f378b62)
