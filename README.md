@@ -5,7 +5,7 @@ This project was developed as part of the **Smart India Hackathon 2024** and eme
 ## 🛠️ Tech Stack  
 - **Frontend:** Electron.js, React, TypeScript, Zustand  
 - **Backend:** FastAPI  
-- **Machine Learning:** Scikit-learn
+- **Machine Learning:** Scikit-learn, Tensorflow
   
 ![Screenshot 2024-12-12 160547](https://github.com/user-attachments/assets/48599273-73eb-49ac-a7e8-7815d9735f3d)
 ![Screenshot 2024-12-12 160409](https://github.com/user-attachments/assets/a9acc6a7-ebd8-4c33-8c49-a080661d27ae)
